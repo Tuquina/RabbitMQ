@@ -1,0 +1,34 @@
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\Receive.exe
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\Receive.pdb
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.pdb
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 1\Receive\obj\Debug\net6.0\ref\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\Receive.exe
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\Receive.deps.json
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\Receive.runtimeconfig.json
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\Receive.pdb
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.csproj.AssemblyReference.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.AssemblyInfoInputs.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.AssemblyInfo.cs
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.csproj.CoreCompileInputs.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.csproj.CopyComplete
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\refint\Receive.dll
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.pdb
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\Receive.genruntimeconfig.cache
+C:\Users\176592\Desktop\Pruebas\RabbitMQ\Suscriptor - Receptor\Receive\obj\Debug\net6.0\ref\Receive.dll

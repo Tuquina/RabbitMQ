@@ -1,0 +1,3 @@
+Ahora vamos a agregarle una función: vamos a hacer posible suscribirse solo a un subconjunto de los mensajes. 
+Por ejemplo, podremos dirigir solo los mensajes de error críticos al archivo de registro (para ahorrar espacio en disco), 
+mientras aún podemos imprimir todos los mensajes de registro en la consola.

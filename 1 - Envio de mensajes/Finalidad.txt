@@ -1,0 +1,4 @@
+En esta parte del tutorial escribiremos dos programas en C#; 
+un productor que envía un solo mensaje y un consumidor que recibe mensajes y los imprime. 
+Pasaremos por alto algunos de los detalles en la API del cliente .NET, concentrándonos en esta cosa tan simple solo para comenzar. 
+Es un "Hola mundo" de mensajería.

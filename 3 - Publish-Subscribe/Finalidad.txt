@@ -1,0 +1,8 @@
+En esta parte enviaremos un mensaje a múltiples consumidores. Este patrón se conoce como "Productor/Subscriptor".
+
+Para ilustrar el patrón, vamos a construir un sistema de registro simple. 
+Constará de dos programas: el primero emitirá mensajes de registro y el segundo los recibirá e imprimirá.
+
+En nuestro sistema de registro, cada copia en ejecución del programa receptor obtendrá los mensajes. 
+De esa forma, podremos ejecutar un receptor y dirigir los registros al disco; 
+y al mismo tiempo podremos ejecutar otro receptor y ver los registros en la pantalla.

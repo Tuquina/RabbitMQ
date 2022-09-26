@@ -1,0 +1,17 @@
+En el primer tutorial escribimos programas para enviar y recibir mensajes de una cola con nombre. 
+En este, crearemos una cola de trabajo que se usará para distribuir tareas que consumen mucho tiempo entre varios trabajadores.
+
+La idea principal detrás de las colas de trabajo (también conocidas como colas de tareas ) es evitar realizar una tarea que consume muchos 
+recursos de inmediato y tener que esperar a que se complete. 
+En su lugar, programamos la tarea para que se realice más tarde. Encapsulamos una tarea como un mensaje y la enviamos a una cola. 
+Un proceso de trabajo que se ejecuta en segundo plano mostrará las tareas y finalmente ejecutará el trabajo. 
+Cuando ejecuta muchos trabajadores, las tareas se compartirán entre ellos.
+
+Este concepto es especialmente útil en aplicaciones web donde es imposible 
+manejar una tarea compleja durante una breve ventana de solicitud HTTP.
+
+En la prueba utilizamos varios "Workers" y vemos que los que están libres reciben y realizan las tareas.
+
+De forma predeterminada, RabbitMQ enviará cada mensaje al siguiente consumidor, en secuencia. 
+En promedio, todos los consumidores recibirán la misma cantidad de mensajes. 
+Esta forma de distribuir mensajes se llama round-robin.

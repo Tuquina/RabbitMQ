@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1bxenjSXknGMftSV+YFQN55hpsC4UrsARYs8pkUqIvgc1RxRxAZMzakCffrSzTy0BJq0QDHIce3aEelK7F/Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\5 - Topics\\ReceiveLogsDirect\\ReceiveLogsDirect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\176592\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\176592\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\176592\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
