@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Receive\\Receive.csproj": {}
+    "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Receive\\Receive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Receive\\Receive.csproj": {
+    "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Receive\\Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Receive\\Receive.csproj",
+        "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Receive\\Receive.csproj",
         "projectName": "Receive",
-        "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Receive\\Receive.csproj",
+        "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Receive\\Receive.csproj",
         "packagesPath": "C:\\Users\\176592\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Receive\\obj\\",
+        "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\176592\\AppData\\Roaming\\NuGet\\NuGet.Config"

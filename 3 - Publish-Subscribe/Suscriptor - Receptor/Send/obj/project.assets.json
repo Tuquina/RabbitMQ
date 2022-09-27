@@ -119,11 +119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Send\\Send.csproj",
+      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Send\\Send.csproj",
+      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\176592\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Suscriptor - Receptor\\Send\\obj\\",
+      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\3 - Publish-Subscribe\\Suscriptor - Receptor\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\176592\\AppData\\Roaming\\NuGet\\NuGet.Config"

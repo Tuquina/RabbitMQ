@@ -119,11 +119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Send\\Send.csproj",
+      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Send\\Send.csproj",
       "projectName": "Send",
-      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Send\\Send.csproj",
+      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Send\\Send.csproj",
       "packagesPath": "C:\\Users\\176592\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Send\\obj\\",
+      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Send\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\176592\\AppData\\Roaming\\NuGet\\NuGet.Config"

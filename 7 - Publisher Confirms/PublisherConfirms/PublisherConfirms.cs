@@ -13,8 +13,8 @@ class PublisherConfirms
         public static void Main()
         {
             PublishMessagesIndividually();
-            PublishMessagesInBatch();
-            HandlePublishConfirmsAsynchronously();
+            //PublishMessagesInBatch();
+            //HandlePublishConfirmsAsynchronously();
         }
 
         private static IConnection CreateConnection()

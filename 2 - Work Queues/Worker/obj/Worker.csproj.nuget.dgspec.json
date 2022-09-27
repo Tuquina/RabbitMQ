@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 2\\Worker\\Worker.csproj": {}
+    "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\2 - Work Queues\\Worker\\Worker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 2\\Worker\\Worker.csproj": {
+    "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\2 - Work Queues\\Worker\\Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 2\\Worker\\Worker.csproj",
+        "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\2 - Work Queues\\Worker\\Worker.csproj",
         "projectName": "Worker",
-        "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 2\\Worker\\Worker.csproj",
+        "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\2 - Work Queues\\Worker\\Worker.csproj",
         "packagesPath": "C:\\Users\\176592\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 2\\Worker\\obj\\",
+        "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\2 - Work Queues\\Worker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\176592\\AppData\\Roaming\\NuGet\\NuGet.Config"

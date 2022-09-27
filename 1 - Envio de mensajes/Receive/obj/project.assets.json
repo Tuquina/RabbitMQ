@@ -119,11 +119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Receive\\Receive.csproj",
+      "projectUniqueName": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Receive\\Receive.csproj",
+      "projectPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\176592\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\RabbitMQ\\Tutorial 1\\Receive\\obj\\",
+      "outputPath": "C:\\Users\\176592\\Desktop\\Pruebas\\Mensajeria\\RabbitMQ\\1 - Envio de mensajes\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\176592\\AppData\\Roaming\\NuGet\\NuGet.Config"

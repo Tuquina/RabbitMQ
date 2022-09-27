@@ -1,17 +1,17 @@
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\NewTask.exe
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\NewTask.deps.json
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\NewTask.runtimeconfig.json
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\NewTask.dll
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\NewTask.pdb
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\bin\Debug\net6.0\RabbitMQ.Client.dll
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.csproj.AssemblyReference.cache
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfoInputs.cache
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfo.cs
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.csproj.CoreCompileInputs.cache
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.csproj.CopyComplete
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.dll
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\refint\NewTask.dll
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.pdb
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\NewTask.genruntimeconfig.cache
-C:\Users\176592\Desktop\Pruebas\RabbitMQ\Tutorial 2\NewTask\obj\Debug\net6.0\ref\NewTask.dll
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\NewTask.exe
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\NewTask.deps.json
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\NewTask.runtimeconfig.json
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\NewTask.dll
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\NewTask.pdb
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.AssemblyReference.cache
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.AssemblyInfo.cs
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.csproj.CopyComplete
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.dll
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\refint\NewTask.dll
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.pdb
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\NewTask.genruntimeconfig.cache
+C:\Users\176592\Desktop\Pruebas\Mensajeria\RabbitMQ\2 - Work Queues\NewTask\obj\Debug\net6.0\ref\NewTask.dll
